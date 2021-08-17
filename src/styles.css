@@ -1,4 +1,44 @@
-.App {
-  font-family: sans-serif;
-  text-align: center;
+.my-3 {
+  margin: 3rem 0;
+}
+
+.m2 {
+  margin: 2rem;
+}
+
+.mr {
+  margin-right: 2rem;
+}
+
+.mt {
+  margin-top: 1rem;
+}
+
+.py {
+  padding-block-start: 15px;
+}
+
+.border {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.search {
+  background: #59b18f;
+  display: inline-block;
+  height: 160px;
+}
+
+.counter {
+  display: block;
+  width: auto;
+  overflow: hidden;
+  padding: 7px;
+  border-radius: 0.3rem;
+  text-decoration-color: white;
+  background-color: limegreen;
+}
+
+.workarea {
+  overflow: hidden;
 }
